@@ -5,7 +5,7 @@ public class busquedainterna {
             if (arreglo[i] == clave) {
                 return i;
             }
-        }
+        }               
         return -1;
 
     }
